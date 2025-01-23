@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🔴 Check out the Live Site here: https://store-it-pi-six.vercel.app/
 
-## Getting Started
+## Store It 🗃️
 
 First, run the development server:
 
